@@ -29,9 +29,8 @@ This project simulates the UK version of the popular game show **"Deal or No Dea
 
 #### Clone the Repository
 
-```
 git clone https://github.com/your_username/Deal-or-No-Deal.git
-cd Deal-or-No-Deal```
+cd Deal-or-No-Deal
 
 ### Usage
 
